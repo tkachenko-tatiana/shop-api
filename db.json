@@ -1,0 +1,46 @@
+{ 
+  "products" : [
+    { 
+      "id": 1, 
+      "name": "Cheese", 
+      "price" : 2.50, 
+      "location": "Refrigerated foods",
+      "text": "Cheese is a dairy product derived from milk that is produced in a wide range of flavors, textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep. During production, the milk is usually acidified, and adding the enzyme rennet causes coagulation. The solids are separated and pressed into final form.[1] Some cheeses have molds on the rind, the outer layer, or throughout. Most cheeses melt at cooking temperature."
+    },
+    { 
+      "id": 2, 
+      "name": "Crisps", 
+      "price" : 3, 
+      "location": "the Snack isle",
+      "text": "Potato chips or crisps are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives."
+    },
+    { 
+      "id": 3, 
+      "name": "Pizza", 
+      "price" : 4, 
+      "location": "Refrigerated foods",
+      "text": "Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese."
+    },
+    { 
+      "id": 4, 
+      "name": "Chocolate", 
+      "price" : 1.50, 
+      "location": "the Snack isle",
+      "text": "Chocolate is a typically sweet, usually brown food preparation of Theobroma cacao seeds, roasted and ground. It is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. The earliest evidence of use traces to the Olmecs (Mexico), with evidence of chocolate beverages dating to 1900 BC.[1][2] The majority of Mesoamerican people made chocolate beverages, including the Maya and Aztecs."
+    },
+    { 
+      "id": 5, 
+      "name": "Self-raising flour", 
+      "price" : 1.50, 
+      "location": "Home baking",
+      "text": "Flour is a powder made by grinding raw grains or roots and used to make many different foods. Cereal flour is the main ingredient of bread, which is a staple food for most cultures. Wheat flour is one of the most important ingredients in Oceanic, European, South American, North American, Middle Eastern, North Indian and North African cultures, and is the defining ingredient in their styles of breads and pastries."
+    },
+    { 
+      "id": 6, 
+      "name": "Ground almonds", 
+      "price" : 3, 
+      "location": "Home baking",
+      "text": "The almond (Prunus dulcis, syn. Prunus amygdalus) is a species of tree native to Mediterranean climate regions of the Middle East, from Syria and Turkey to India and Pakistan, although it has been introduced elsewhere."
+    }
+  ]
+}
